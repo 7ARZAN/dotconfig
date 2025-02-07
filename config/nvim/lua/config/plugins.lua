@@ -15,7 +15,7 @@ require("lazy").setup({
 	    -- this is equalent to setup({}) function
 	},
 	{"ms-jpq/chadtree"},
-	{"/lewis6991/gitsigns.nvim"},
+	{"lewis6991/gitsigns.nvim"},
 	{
 		'numToStr/Comment.nvim',
 		lazy = false,
